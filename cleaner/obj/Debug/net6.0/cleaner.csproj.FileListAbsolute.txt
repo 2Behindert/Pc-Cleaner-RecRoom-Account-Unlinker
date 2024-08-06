@@ -1,0 +1,14 @@
+C:\Users\2behi\source\repos\cleaner\cleaner\obj\Debug\net6.0\cleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2behi\source\repos\cleaner\cleaner\obj\Debug\net6.0\cleaner.AssemblyInfoInputs.cache
+C:\Users\2behi\source\repos\cleaner\cleaner\obj\Debug\net6.0\cleaner.AssemblyInfo.cs
+C:\Users\2behi\source\repos\cleaner\cleaner\obj\Debug\net6.0\cleaner.csproj.CoreCompileInputs.cache
+C:\Users\2behi\source\repos\cleaner\cleaner\bin\Debug\net6.0\cleaner.exe
+C:\Users\2behi\source\repos\cleaner\cleaner\bin\Debug\net6.0\cleaner.deps.json
+C:\Users\2behi\source\repos\cleaner\cleaner\bin\Debug\net6.0\cleaner.runtimeconfig.json
+C:\Users\2behi\source\repos\cleaner\cleaner\bin\Debug\net6.0\cleaner.dll
+C:\Users\2behi\source\repos\cleaner\cleaner\bin\Debug\net6.0\cleaner.pdb
+C:\Users\2behi\source\repos\cleaner\cleaner\obj\Debug\net6.0\cleaner.dll
+C:\Users\2behi\source\repos\cleaner\cleaner\obj\Debug\net6.0\refint\cleaner.dll
+C:\Users\2behi\source\repos\cleaner\cleaner\obj\Debug\net6.0\cleaner.pdb
+C:\Users\2behi\source\repos\cleaner\cleaner\obj\Debug\net6.0\cleaner.genruntimeconfig.cache
+C:\Users\2behi\source\repos\cleaner\cleaner\obj\Debug\net6.0\ref\cleaner.dll
